@@ -11,20 +11,10 @@ The Paradise is a sleek and modern hotel booking website built for speed, elegan
 
 ---
 
-## 📸 Preview
+## 🏁 Live Demo!
 
-### 🏠 Homepage
-![Homepage Preview](./screenshots/homepage.png)
-
-### 📅 Booking Page
-![Booking Preview](./screenshots/booking.png)
-
----
-
-## 🏁 Live Demo
-
-> 🚀 _Coming Soon!_  
-Or deploy with [Vercel](https://vercel.com) / [Netlify](https://netlify.com)
+> 🚀
+> Deploy with [Vercel]((https://hotel-booking-website-silk.vercel.app/)) 
 
 ---
 
