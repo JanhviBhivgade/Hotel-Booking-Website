@@ -1,52 +1,69 @@
+# 🌴 Hotel-Booking-Website – DreamStay
 
-# Hotel-Booking-Website
-=======
-🎉 WELCOME TO The Paradise
+🎉 **WELCOME TO The Paradise**  
 🛎️ Your Ultimate Hotel Booking Experience
 
-🌐 ABOUT THE PROJECT:
+---
+
+## 🌐 ABOUT THE PROJECT
+
 The Paradise is a sleek and modern hotel booking website built for speed, elegance, and functionality. It allows users to explore beautiful hotel listings, check availability, and book stays effortlessly — all in a fully responsive and user-friendly interface.
+
+---
+
+## 📸 Preview
+
+### 🏠 Homepage
+![Homepage Preview](./screenshots/homepage.png)
+
+### 📅 Booking Page
+![Booking Preview](./screenshots/booking.png)
+
+---
 
 ## 🏁 Live Demo
 
-> 🚀 _Coming Soon!_ Or deploy with [Vercel](https://vercel.com) / [Netlify](https://netlify.com)
+> 🚀 _Coming Soon!_  
+Or deploy with [Vercel](https://vercel.com) / [Netlify](https://netlify.com)
 
 ---
 
 ## 💡 Key Features
 
-- 🏨 **Browse Hotels** – View top-rated hotels with beautiful listings
-- 📅 **Real-Time Booking UI** – Interactive availability and scheduling
-- 🧑‍💻 **Developer Friendly** – Clean code and reusable components
-- 💻 **Fully Responsive** – Optimized for mobile, tablet, and desktop
-- ⚡ **Super Fast** – Powered by Vite & optimized Tailwind CSS
+- 🏨 **Browse Hotels** – View top-rated hotels with beautiful listings  
+- 📅 **Real-Time Booking UI** – Interactive availability and scheduling  
+- 🧑‍💻 **Developer Friendly** – Clean code and reusable components  
+- 💻 **Fully Responsive** – Optimized for mobile, tablet, and desktop  
+- ⚡ **Super Fast** – Powered by Vite & optimized Tailwind CSS  
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Tool / Framework | Description                     |
-| ---------------- | ------------------------------- |
-| 🧠 React JS      | Modern UI library               |
-| 🎨 Tailwind CSS  | Utility-first styling framework |
-| ⚡ Vite          | Lightning-fast build tool       |
-| 🖼️ HTML5 & CSS3  | Core web technologies           |
-| 📦 NPM           | Package management              |
+|------------------|---------------------------------|
+| 🧠 React JS       | Modern UI library               |
+| 🎨 Tailwind CSS   | Utility-first styling framework |
+| ⚡ Vite           | Lightning-fast build tool       |
+| 🖼️ HTML5 & CSS3   | Core web technologies           |
+| 📦 NPM            | Package management              |
 
 ---
 
 ## 🧱 Project Structure
 
+```
 DreamStay/
-├── public/ # Static assets and images
-├── src/ # Source code
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # App pages (Home, Booking, etc.)
-│ ├── App.jsx # App entry point
-│ └── main.jsx # React DOM root
-├── tailwind.config.js # Tailwind configuration
-├── vite.config.js # Vite config
-└── package.json # Project metadata and dependencies
+├── public/             # Static assets and images
+├── src/                # Source code
+│   ├── components/     # Reusable UI components
+│   ├── pages/          # App pages (Home, Booking, etc.)
+│   ├── App.jsx         # App entry point
+│   └── main.jsx        # React DOM root
+├── tailwind.config.js  # Tailwind configuration
+├── vite.config.js      # Vite config
+└── package.json        # Project metadata and dependencies
+```
 
 ---
 
@@ -56,10 +73,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/dreamstay.git
+git clone https://github.com/JanhviBhivgade/Hotel-Booking-Website.git
 
 # 2. Navigate into the directory
-cd dreamstay
+cd Hotel-Booking-Website
 
 # 3. Install dependencies
 npm install
@@ -67,30 +84,34 @@ npm install
 # 4. Start the development server
 npm run dev
 
-🔗 Visit: http://localhost:5173
-
+# 🔗 Visit
+http://localhost:5173
 ```
 
-🔮 Upcoming Features:---------
-🧾 Backend integration for real bookings
+---
 
-💳 Secure payment gateway
+## 🔮 Upcoming Features
 
-👥 User authentication
+- 🧾 Backend integration for real bookings  
+- 💳 Secure payment gateway  
+- 👥 User authentication  
+- 📊 Admin dashboard  
 
-📊 Admin dashboard
+---
 
+## 🙏 Acknowledgements
 
-🙏 Acknowledgements
-React
-Tailwind CSS
-Vite
-Heroicons
+- [React](https://reactjs.org/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [Vite](https://vitejs.dev/)  
+- [Heroicons](https://heroicons.com/)  
 
+---
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License.
 
-Built with 💙 by Janhvi Janrdan Bhivgade
+---
 
-
+### Built with 💙 by *Janhvi Janardan Bhivgade*
